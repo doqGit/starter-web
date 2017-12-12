@@ -4,6 +4,8 @@ Simple Web Site to show how to use Git and GitHub
 
 ## Introduction
 
+Simple Introduction text example
+
 ## Purpose
 
 ## Deployment
