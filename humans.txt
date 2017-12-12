@@ -4,6 +4,7 @@
 # TEAM
 
     DOQ -- GITGRUNT -- me@twitter.com
+    DOQ2 -- GITGRUNT2 -- doq@twitter.com
 
 # THANKS
 
