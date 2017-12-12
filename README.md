@@ -14,4 +14,8 @@ Simple Web project to use Git/GitHub
 
 ## How To Contribute
 
+### Copyright
+
+2017 Git Training
+
 Sample website with plenty of files for demos
