@@ -14,6 +14,8 @@ Simple Web project to use Git/GitHub
 
 ## How To Contribute
 
+Please fork this repository and issue Pull Requests for review.
+
 ### Copyright
 
 2017 Git Training
