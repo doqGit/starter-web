@@ -8,6 +8,8 @@ Simple Introduction text example
 
 ## Purpose
 
+Simple Web project to use Git/GitHub
+
 ## Deployment
 
 ## How To Contribute
