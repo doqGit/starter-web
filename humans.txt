@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    DOQ -- GITGRUNT -- me@twitter.com
 
 # THANKS
 
