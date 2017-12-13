@@ -23,6 +23,6 @@ Please fork this repository and issue Pull Requests for review.
 
 ### Copyright
 
-2017 Git Training
+2017 Git Training... All Rights Reserved...
 
 Sample website with plenty of files for demos
