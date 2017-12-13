@@ -4,6 +4,8 @@ Simple Web Site to show how to use Git and GitHub
 
 Adding text for rebasing exercise
 
+Adding more text for rebasing exercise in myfeature branch
+
 ## Introduction
 
 Simple Introduction text example
