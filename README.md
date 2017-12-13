@@ -2,6 +2,8 @@
 
 Simple Web Site to show how to use Git and GitHub
 
+Adding text for rebasing exercise
+
 ## Introduction
 
 Simple Introduction text example
