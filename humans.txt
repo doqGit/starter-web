@@ -9,6 +9,7 @@
 # THANKS
 
     Thanks to my references
+	some new text for stash exercise
 
 # TECHNOLOGY COLOPHON
 
